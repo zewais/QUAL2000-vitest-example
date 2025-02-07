@@ -5,7 +5,7 @@ import Counter from "./components/Counter";
 function App() {
   return (
     <>
-      <Greeting />
+      <Greeting name="Alice" />
       <Counter />
     </>
   );
